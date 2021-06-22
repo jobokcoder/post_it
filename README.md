@@ -1,6 +1,6 @@
 <h3 align='center'>🗒 Post_it </h3>
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/73686581/122849848-404f2700-d347-11eb-818d-48dee9399959.png"/>
+  <img src="https://user-images.githubusercontent.com/73686581/122850062-92904800-d347-11eb-889a-22865bbe647b.png"/>
 </p>
 <h3 align='center'>🔨 Developers Stack</h3>
 <p align='center'>
