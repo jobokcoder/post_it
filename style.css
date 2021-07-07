@@ -46,7 +46,7 @@
 .app__header--button i{ font-size: 16px; }
 .app__header--button:hover{ transition: 300ms ease-out; background-color: var(--colorBlack); }
 .app__header--button:hover i{ transition: 300ms ease-out; color: var(--colorWhite); }
-.app__contents{ position: relative; padding: 20px 0px; width: 100%;display: grid; grid-template-columns: repeat(5, 1fr); column-gap: 32px; row-gap: 32px; }
+.app__contents{ position: relative; padding: 20px 0px; width: 100%; min-width: 1600px; display: grid; grid-template-columns: repeat(5, 1fr); column-gap: 32px; row-gap: 32px; }
 
 .app__contents--none{ position: absolute; z-index: 10; left: 50%; top: 50%; transform-origin: center; transform: translate(-50%, -50%); }
 .app__contents--none-text{ font-size: 24px; font-weight: 700; color: var(--colorBlack); }
